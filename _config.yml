@@ -46,7 +46,8 @@ orcid_username: 0009-0000-5941-3588
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# Profile should go here
+#about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jumin and I'm a M.S Ph.D student in Yonsei University, Compiler Optimization Lab(CoreLab)
 
@@ -107,9 +108,9 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **SnakeByte: A TLB Design with Adaptive and Recursive Page Merging in GPUs** 
+      - **SnakeByte: A TLB Design with Adaptive and Recursive Page Merging in GPUs** |
       Jiwon Lee, **Ju Min Lee**, Yunho Oh, William J. Song, Won Woo Ro
-      - **DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption**
+      - **DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption** |
       Seonyoung Cheon, Yongwoo Lee, Dongkwan Kim, **Ju Min Lee**, Sunchul Jung, Taekyung Kim, Dongyoon Lee, Hanjun Kim
 
 
