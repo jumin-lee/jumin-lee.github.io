@@ -105,27 +105,26 @@ content:
 #        sub_title: M.S/Ph.D candidate
         description: | 
           <mark>M.S/Ph.D Candidate</mark>
+          Advisor: Hanjun Kim
         
           Current research on Compiler Optimization Research Lab(CoreLab)
-          
-          Advisor: Hanjun Kim
 
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **SnakeByte: A TLB Design with Adaptive and Recursive Page Merging in GPUs** *(HPCA'23)*
       
-        Jiwon Lee, **Ju Min Lee**, Yunho Oh, William J. Song, Won Woo Ro
+        Jiwon Lee, _*Ju Min Lee*_, Yunho Oh, William J. Song, Won Woo Ro
       - **DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption** *(Security'24)*
       
-        Seonyoung Cheon, Yongwoo Lee, Dongkwan Kim, **Ju Min Lee**, Sunchul Jung, Taekyung Kim, Dongyoon Lee, Hanjun Kim
+        Seonyoung Cheon, Yongwoo Lee, Dongkwan Kim, _*Ju Min Lee*_, Sunchul Jung, Taekyung Kim, Dongyoon Lee, Hanjun Kim
         
   - title: Teaching
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Teaching Assistant**, EEE2020: DATA STRUCTURE, Yonsei University 
       
-      Spring 2024
+        Spring 2024
         
   - title: Recognition
     layout: list
@@ -141,10 +140,10 @@ content:
   - title: Experience
     layout: text
     content: |
-      - <h4>**Graduate Research Assistant**, Compiler Research Lab (CoreLab), Yonsei University ( Mar 2023 - Present)</h4>
+      - **Graduate Research Assistant**, Compiler Research Lab (CoreLab), Yonsei University ( Mar 2023 - Present)
 
         Research on DNN inference and GPU scheduling for multi-tenant system in embedded system
-      - <h5>*Undergraduate Research Assistant**, Compiler Research Lab (CoreLab), Yonsei University (Jul 2022 - Feb 2023)</h5>
+      - **Undergraduate Research Assistant**, Compiler Research Lab (CoreLab), Yonsei University (Jul 2022 - Feb 2023)
 
         Research on real-time cores and DNN inference in compiler research lab
       - **Undergraduate Research Assistant**, Computer Architecture and System Lab, Yonsei University (Jul 2020 - Jun 2022)
