@@ -51,8 +51,7 @@ orcid_username: 0009-0000-5941-3588
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jumin and I'm a M.S Ph.D student in Yonsei University, Compiler Optimization Lab(CoreLab)
 
-  I am most interested in: <mark>GPU Optimization</mark> and <mark>Compilers</mark>
-
+  Research interests in: <mark>Compiler Optimization</mark>, <mark>GPU Architecture</mark>, <mark>Real-time System</mark>
 content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -97,9 +96,9 @@ content:
 #        quote: >
  #         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: |
-          Department of Electrical and Electroninc Engineering
-
           <mark>Bachelor of Engineering</mark>
+          
+          Department of Electrical and Electroninc Engineering
       - layout: left
         title: Yonsei University
         caption: 2024 - Present
@@ -114,12 +113,21 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **SnakeByte: A TLB Design with Adaptive and Recursive Page Merging in GPUs** 
+      - **SnakeByte: A TLB Design with Adaptive and Recursive Page Merging in GPUs** *(HPCA'23)*
       
         Jiwon Lee, **Ju Min Lee**, Yunho Oh, William J. Song, Won Woo Ro
-      - **DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption** 
+      - **DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption** *(Security'24)*
+      
         Seonyoung Cheon, Yongwoo Lee, Dongkwan Kim, **Ju Min Lee**, Sunchul Jung, Taekyung Kim, Dongyoon Lee, Hanjun Kim
 
+  - title: Experience
+    layout: test
+    content: |
+      <H3> Header 3 test
+    
+      <H4> Header 4 test
+
+      <H5> Header 5 test
 
 # Footer
 footer_show_references: true
