@@ -114,10 +114,10 @@ content:
     content: | # this will include new lines to allow paragraphs
       - **SnakeByte: A TLB Design with Adaptive and Recursive Page Merging in GPUs** *(HPCA'23)*
       
-        Jiwon Lee, *_Ju Min Lee_*, Yunho Oh, William J. Song, Won Woo Ro
+        Jiwon Lee, **Ju Min Lee**, Yunho Oh, William J. Song, Won Woo Ro
       - **DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption** *(Security'24)*
       
-        Seonyoung Cheon, Yongwoo Lee, Dongkwan Kim, *_Ju Min Lee_*, Sunchul Jung, Taekyung Kim, Dongyoon Lee, Hanjun Kim
+        Seonyoung Cheon, Yongwoo Lee, Dongkwan Kim, **Ju Min Lee**, Sunchul Jung, Taekyung Kim, Dongyoon Lee, Hanjun Kim
         
   - title: Teaching
     layout: text
