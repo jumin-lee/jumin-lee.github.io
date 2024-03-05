@@ -123,11 +123,11 @@ content:
   - title: Experience
     layout: test
     content: |
-      <H3> Header 3 test
+      <H3> Header 3 test </H3>
     
-      <H4> Header 4 test
+      <H4> Header 4 test </H4>
 
-      <H5> Header 5 test
+      <H5> Header 5 test </H5>
 
 # Footer
 footer_show_references: true
