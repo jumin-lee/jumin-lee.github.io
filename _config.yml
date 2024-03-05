@@ -93,18 +93,21 @@ content:
       - layout: left
         title: Yonsei University
         caption: 2017 - 2023
-        sub_title: Bachelor of Engineering
+#        sub_title: Bachelor of Engineering
 #        quote: >
  #         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: Department of Electrical and Electroninc <mark>Engineering<\mark>
+        description: |
+          Department of Electrical and Electroninc Engineering
+
+          <mark>Bachelor of Engineering</mark>
       - layout: left
         title: Yonsei University
         caption: 2024 - Present
 #        sub_title: M.S/Ph.D candidate
         description: | 
-          M.S/Ph.D Candidate
+          <mark>M.S/Ph.D Candidate</mark>
         
-          Compiler Optimization Research Lab. 
+          Current research on Compiler Optimization Research Lab(CoreLab)
           
           Advisor: Hanjun Kim
 
@@ -113,10 +116,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       - **SnakeByte: A TLB Design with Adaptive and Recursive Page Merging in GPUs** 
       
-      Jiwon Lee, **Ju Min Lee**, Yunho Oh, William J. Song, Won Woo Ro
+        Jiwon Lee, **Ju Min Lee**, Yunho Oh, William J. Song, Won Woo Ro
       - **DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption** 
-      
-      Seonyoung Cheon, Yongwoo Lee, Dongkwan Kim, **Ju Min Lee**, Sunchul Jung, Taekyung Kim, Dongyoon Lee, Hanjun Kim
+        Seonyoung Cheon, Yongwoo Lee, Dongkwan Kim, **Ju Min Lee**, Sunchul Jung, Taekyung Kim, Dongyoon Lee, Hanjun Kim
 
 
 # Footer
