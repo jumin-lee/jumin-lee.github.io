@@ -138,10 +138,9 @@ content:
           Samsung Electronics Co., Ltd., Republic of Korea
         
   - title: Experience
-    layout: test
+    layout: text
     content: |
-      #Need some edit here
-      - **Graduate Research Assistant**, Compiler Research Lab (CoreLab), Yonsei University ( Mar 2023 - Present)
+      - <h3>**Graduate Research Assistant**, Compiler Research Lab (CoreLab), Yonsei University ( Mar 2023 - Present)</h3>
 
         Research on DNN inference and GPU scheduling for multi-tenant system in embedded system
       - **Undergraduate Research Assistant**, Compiler Research Lab (CoreLab), Yonsei University (Jul 2022 - Feb 2023)
