@@ -119,16 +119,38 @@ content:
       - **DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption** *(Security'24)*
       
         Seonyoung Cheon, Yongwoo Lee, Dongkwan Kim, **Ju Min Lee**, Sunchul Jung, Taekyung Kim, Dongyoon Lee, Hanjun Kim
-
+        
+  - title: Teaching
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Teaching Assistant, EEE2020: DATA STRUCTURE, Yonsei University 
+        - Spring 2024
+        
+  - title: Recognition
+    layout: list
+    content:
+      - layout: left
+        title: The 30th Humantech Paper Awards
+        caption: Feb 2023
+        description: |
+          [Silver Prize](https://github.com/jumin-lee/jumin-lee.github.io/images/humantech2023.pdf)
+          
+          Samsung Electronics Co., Ltd., Republic of Korea
+        
   - title: Experience
     layout: test
     content: |
-      <h3> Header 3 test </h3>
-    
-      <h4> Header 4 test </h4>
+      #Need some edit here
+      - **Graduate Research Assistant**, Compiler Research Lab (CoreLab), Yonsei University ( Mar 2023 - Present)
 
-      <h5> Header 5 test </h5>
+        Research on DNN inference and GPU scheduling for multi-tenant system in embedded system
+      - **Undergraduate Research Assistant**, Compiler Research Lab (CoreLab), Yonsei University (Jul 2022 - Feb 2023)
 
+        Research on real-time cores and DNN inference in compiler research lab
+      - **Undergraduate Research Assistant**, Computer Architecture and System Lab, Yonsei University (Jul 2020 - Jun 2022)
+
+        Research on GPU architecture in consideration for memory management
+        
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
