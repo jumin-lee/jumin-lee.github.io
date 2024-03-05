@@ -100,7 +100,9 @@ content:
         title: Yonsei University
         caption: 2024 - Present
         sub_title: M.S/Ph.D candidate
-        description: Compiler Optimization Research Lab. Advisor: Hanjun Kim
+        description: | 
+          Compiler Optimization Research Lab. 
+          Advisor: Hanjun Kim
 
   - title: Publications
     layout: text
