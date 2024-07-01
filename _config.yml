@@ -118,7 +118,9 @@ content:
       - **DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption** *(Security'24)*
       
         Seonyoung Cheon, Yongwoo Lee, Dongkwan Kim, **Ju Min Lee**, Sunchul Jung, Taekyung Kim, Dongyoon Lee, Hanjun Kim
-        
+      - **TeMCO: Tensor Memory Compiler Optimization across Tensor Decompositions in Deep Learning Inference** *(ICPP'24)*
+      
+        Seungbin Song, **Ju Min Lee**, Haeeun Jeong, Hyunho Kwon, Shinnung Jeong, Jaeho Lee, and Hanjun Kim      
   - title: Teaching
     layout: text
     content: | # this will include new lines to allow paragraphs
