@@ -49,7 +49,7 @@ orcid_username: 0009-0000-5941-3588
 # Profile should go here
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jumin and I'm a M.S Ph.D student in Yonsei University, Compiler Optimization Lab(CoreLab)
+  Hi, my name's Jumin, and I'm a M.S Ph.D student at Yonsei University, Compiler Optimization Lab(CoreLab)
 
   Research interests in: <mark>Compiler Optimization</mark>, <mark>GPU Architecture</mark>, <mark>Real-time System</mark>
 content:
@@ -131,10 +131,12 @@ content:
   - title: Teaching
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - **Teaching Assistant**, EEE1108: Engineering Information Processing, Yonsei University 
+      
+        Fall 2019
       - **Teaching Assistant**, EEE2020: DATA STRUCTURE, Yonsei University 
       
         Spring 2024
-        
   - title: Recognition
     layout: list
     content:
@@ -151,7 +153,7 @@ content:
     content: |
       - **Graduate Research Assistant**, Compiler Research Lab (CoreLab), Yonsei University ( Mar 2023 - Present)
 
-        Research on DNN inference and GPU scheduling for multi-tenant system in embedded system
+        Research on DNN inference and GPU scheduling for multi-tenant systems in embedded system
       - **Undergraduate Research Assistant**, Compiler Research Lab (CoreLab), Yonsei University (Jul 2022 - Feb 2023)
 
         Research on real-time cores and DNN inference in compiler research lab
