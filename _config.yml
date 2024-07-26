@@ -100,6 +100,14 @@ content:
           
           Department of Electrical and Electroninc Engineering
       - layout: left
+        title: University of California Irvine
+        caption: 2019.01 - 2019.07
+#        sub_title: Transfer Student
+#        description: | 
+#          <mark>M.S/Ph.D Candidate</mark>
+        
+          Current research on Compiler Optimization Research Lab(CoreLab)
+      - layout: left
         title: Yonsei University
         caption: 2024 - Present
 #        sub_title: M.S/Ph.D candidate
@@ -108,7 +116,6 @@ content:
           Advisor: Hanjun Kim
         
           Current research on Compiler Optimization Research Lab(CoreLab)
-
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -133,7 +140,7 @@ content:
     content:
       - layout: left
         title: The 30th Humantech Paper Awards
-        caption: Feb 2023
+        caption: Feb 2024
         description: |
           [[Silver Prize]](https://github.com/jumin-lee/jumin-lee.github.io/blob/master/images/humantech2023.pdf)
           
