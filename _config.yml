@@ -91,14 +91,13 @@ content:
     content:
       - layout: left
         title: Yonsei University
-        caption: 2017 - 2023
-#        sub_title: Bachelor of Engineering
-#        quote: >
- #         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: |
-          <mark>Bachelor of Engineering</mark>
-          
-          Department of Electrical and Electronic Engineering
+        caption: 2024 - Present
+#        sub_title: M.S/Ph.D candidate
+        description: | 
+          <mark>M.S/Ph.D Candidate</mark>
+          Advisor: Hanjun Kim
+        
+          Current research on Compiler Optimization Research Lab(CoreLab)
       - layout: left
         title: University of California Irvine
         caption: 2019.01 - 2019.07
@@ -109,13 +108,16 @@ content:
           Department of Electrical Engineering and Computer Sciences
       - layout: left
         title: Yonsei University
-        caption: 2024 - Present
-#        sub_title: M.S/Ph.D candidate
-        description: | 
-          <mark>M.S/Ph.D Candidate</mark>
-          Advisor: Hanjun Kim
-        
-          Current research on Compiler Optimization Research Lab(CoreLab)
+        caption: 2017 - 2023
+#        sub_title: Bachelor of Engineering
+#        quote: >
+ #         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: |
+          <mark>Bachelor of Engineering</mark>
+          
+          Department of Electrical and Electronic Engineering
+
+
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -150,12 +152,13 @@ content:
   - title: Teaching
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Teaching Assistant**, EEE1108: Engineering Information Processing, Yonsei University 
-      
-        Fall 2019
       - **Teaching Assistant**, EEE2020: DATA STRUCTURE, Yonsei University 
       
         Spring 2024
+      - **Teaching Assistant**, EEE1108: Engineering Information Processing, Yonsei University 
+      
+        Fall 2019
+
   - title: Recognition
     layout: list
     content:
