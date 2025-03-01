@@ -119,15 +119,34 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **SnakeByte: A TLB Design with Adaptive and Recursive Page Merging in GPUs** *(HPCA'23)*
-      
-        Jiwon Lee, **Ju Min Lee**, Yunho Oh, William J. Song, Won Woo Ro
+      - **SparseWeaver: Converting Sparse Operations as Dense Operations on GPUs for Graph Workloads** *(HPCA'25)*
+
+        Shinnung Jeong, Liam Paul Cooper, **Ju Min Lee**, Heelim Choi, Nicholas Parnenzini, Chihyo Ahn, Yongwoo Lee, Hanjun Kim, Hyesoon Kim
+
+      - **TeMCO: Tensor Memory Compiler Optimization across Tensor Decompositions in Deep Learning Inference** *(ICPP'24)*
+
+        Seungbin Song, **Ju Min Lee**, Haeeun Jeong, Hyunho Kwon, Shinnung Jeong, Jaeho Lee, Hanjun Kim
       - **DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption** *(Security'24)*
       
         Seonyoung Cheon, Yongwoo Lee, Dongkwan Kim, **Ju Min Lee**, Sunchul Jung, Taekyung Kim, Dongyoon Lee, Hanjun Kim
-      - **TeMCO: Tensor Memory Compiler Optimization across Tensor Decompositions in Deep Learning Inference** *(ICPP'24)*
+      - **SnakeByte: A TLB Design with Adaptive and Recursive Page Merging in GPUs** *(HPCA'23)*
       
-        Seungbin Song, **Ju Min Lee**, Haeeun Jeong, Hyunho Kwon, Shinnung Jeong, Jaeho Lee, and Hanjun Kim      
+        Jiwon Lee, **Ju Min Lee**, Yunho Oh, William J. Song, Won Woo Ro
+  - title: Refereed Poster Publications
+    layout: text
+    content: |
+      - **Approximation-based Inter-PE Communication-free Image Filtering for Commodity PIM**
+
+        Chan Lee, Shinnung Jeong, Heelim Choi, Jaeho Lee, Haeeun Jeong, Hoyun Youm, **Ju Min Lee**, Hanjun Kim
+  - title: Patents
+    layout: text
+    content: |
+      - **Compile Method and Apparatus for Neural Network** *(KR Patent App. 10-2024-0088419)*
+
+      Hanjun Kim, Seungbin Song, Hyunho Kwon, **Ju Min Lee**, Haeeun Jeong, Jaeho Lee
+      - **Electronic device for compiling and methods thereof background** *(KR Patent App. 10-2024-0156997)*
+
+      Hanjun Kim, Seonyoung Cheon, Yongwoo Lee, Dongkwan Kim, **Ju Min Lee**
   - title: Teaching
     layout: text
     content: | # this will include new lines to allow paragraphs
