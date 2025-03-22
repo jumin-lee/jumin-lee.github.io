@@ -134,12 +134,12 @@ content:
       - **SnakeByte: A TLB Design with Adaptive and Recursive Page Merging in GPUs** *(HPCA'23)*
       
         Jiwon Lee, **Ju Min Lee**, Yunho Oh, William J. Song, Won Woo Ro
-  - title: Refereed Poster Publications
-    layout: text
-    content: |
-      - **Approximation-based Inter-PE Communication-free Image Filtering for Commodity PIM**
+  #- title: Refereed Poster Publications
+  #  layout: text
+  #  content: |
+  #    - **Approximation-based Inter-PE Communication-free Image Filtering for Commodity PIM**#
 
-        Chan Lee, Shinnung Jeong, Heelim Choi, Jaeho Lee, Haeeun Jeong, Hoyun Youm, **Ju Min Lee**, Hanjun Kim
+  #      Chan Lee, Shinnung Jeong, Heelim Choi, Jaeho Lee, Haeeun Jeong, Hoyun Youm, **Ju Min Lee**, Hanjun Kim
   - title: Patents
     layout: text
     content: |
