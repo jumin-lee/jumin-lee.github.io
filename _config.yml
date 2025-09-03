@@ -152,6 +152,12 @@ content:
   - title: Teaching
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - **Teaching Assistant**, EEE3535: OPERATING SYSTEMS, Yonsei University
+
+        Summer 2025
+      - **Teaching Assistant**, LLVM Tutorial, SAMSUNG AI-Expert
+
+        Summer 2025
       - **Teaching Assistant**, EEE2020: DATA STRUCTURE, Yonsei University 
       
         Spring 2024
