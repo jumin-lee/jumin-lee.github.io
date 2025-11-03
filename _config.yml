@@ -169,19 +169,19 @@ content:
     layout: list
     content:
       - layout: left
-        title: The 30th Humantech Paper Awards
-        caption: Feb 2024
-        description: |
-          [[Silver Prize]](https://github.com/jumin-lee/jumin-lee.github.io/blob/master/images/humantech2023.pdf)
-          
-          Samsung Electronics Co., Ltd., Republic of Korea
-      - layout: left
         title: CVE-2025-33177
         caption: Oct 2025
         description: |
           [[Affirmed by NVIDIA]](https://nvidia.custhelp.com/app/answers/detail/a_id/5716)
 
           Identified a vulnerability in NvMap, which mistracks memory usage, revealing a potential threat of DoS.
+      - layout: left
+        title: The 30th Humantech Paper Awards
+        caption: Feb 2024
+        description: |
+          [[Silver Prize]](https://github.com/jumin-lee/jumin-lee.github.io/blob/master/images/humantech2023.pdf)
+          
+          **DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption**, Samsung Electronics Co., Ltd., Republic of Korea
         
   - title: Experience
     layout: text
