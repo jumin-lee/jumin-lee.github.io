@@ -91,7 +91,7 @@ content:
     content:
       - layout: left
         title: Yonsei University
-        caption: 2024 - Present
+        caption: 2023 - Present
 #        sub_title: M.S/Ph.D candidate
         description: | 
           <mark>M.S/Ph.D Candidate</mark>
@@ -99,7 +99,7 @@ content:
         
           Current research on Compiler Optimization Research Lab(CoreLab)
       - layout: left
-        title: University of California Irvine
+        title: University of California, Irvine
         caption: 2019.01 - 2019.07
 #        sub_title: Transfer Student
         description: | 
@@ -175,16 +175,23 @@ content:
           [[Silver Prize]](https://github.com/jumin-lee/jumin-lee.github.io/blob/master/images/humantech2023.pdf)
           
           Samsung Electronics Co., Ltd., Republic of Korea
+      - layout: left
+        title: CVE-2025-33177
+        caption: Oct 2025
+        description: |
+          Affirmed by NVIDIA(https://nvidia.custhelp.com/app/answers/detail/a_id/5716)
+
+          Identified a vulnerability in NvMap, which mistracks memory usage, revealing a potential threat of DoS.
         
   - title: Experience
     layout: text
     content: |
       - **Graduate Research Assistant**, Compiler Research Lab (CoreLab), Yonsei University ( Mar 2023 - Present)
 
-        Research on DNN inference and GPU scheduling for multi-tenant systems in embedded system
+        Research on DNN inference and GPU scheduling for multi-tenant systems in embedded systems
       - **Undergraduate Research Assistant**, Compiler Research Lab (CoreLab), Yonsei University (Jul 2022 - Feb 2023)
 
-        Research on real-time cores and DNN inference in compiler research lab
+        Research on real-time cores and DNN inference in the compiler research lab
       - **Undergraduate Research Assistant**, Computer Architecture and System Lab, Yonsei University (Jul 2020 - Jun 2022)
 
         Research on GPU architecture in consideration for memory management
