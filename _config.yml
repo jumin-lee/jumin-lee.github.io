@@ -179,7 +179,7 @@ content:
         title: CVE-2025-33177
         caption: Oct 2025
         description: |
-          Affirmed by NVIDIA(https://nvidia.custhelp.com/app/answers/detail/a_id/5716)
+          [[Affirmed by NVIDIA]](https://nvidia.custhelp.com/app/answers/detail/a_id/5716)
 
           Identified a vulnerability in NvMap, which mistracks memory usage, revealing a potential threat of DoS.
         
