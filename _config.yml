@@ -121,6 +121,14 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - **Compiler-Runtime Co-operative Chain of Verification for LLM-Based Code Optimization** *(CGO'26)*
+
+        Hyunho Kwon, Sanggyu Shin, **Ju Min Lee**, Hoyun Youm, Seungbin Song, Seongho Kim, Hanwoong Jung, Seungwon Lee, and Hanjun Kim
+
+      - **Peak-Memory-aware Partitioning and Scheduling for Multi-tenant DNN Model Inference** *(Journal of Systems Architecture, Volume 173)*
+
+        Jaeho Lee, **Ju Min Lee**, Haeeun Jeong, Hyunho Kwon, Youngsok Kim, Yongjun Park, and Hanjun Kim
+      
       - **SparseWeaver: Converting Sparse Operations as Dense Operations on GPUs for Graph Workloads** *(HPCA'25)*
 
         Shinnung Jeong, Liam Paul Cooper, **Ju Min Lee**, Heelim Choi, Nicholas Parnenzini, Chihyo Ahn, Yongwoo Lee, Hanjun Kim, Hyesoon Kim
@@ -175,6 +183,15 @@ content:
           [[Affirmed by NVIDIA]](https://nvidia.custhelp.com/app/answers/detail/a_id/5716)
 
           Identified a vulnerability in NvMap, which mistracks memory usage, revealing a potential threat of DoS.
+      - layout: left
+        title: The 32nd Humantech Paper Awards
+        caption: Feb 2026
+        description: |
+          [[Bronze Prize]]
+          
+          **Compiler-Runtime Co-operative Chain of Verification for LLM-Based Code Optimization**
+          
+          Samsung Electronics Co., Ltd., Republic of Korea
       - layout: left
         title: The 30th Humantech Paper Awards
         caption: Feb 2024
